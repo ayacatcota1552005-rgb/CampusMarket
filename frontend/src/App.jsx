@@ -10,7 +10,7 @@ import MyProducts from './myProduct/myProducts.jsx';
 import AllRequests from './Admin/AllRequests.jsx';
 import ProductDetails from './HomePage/ProductDetails.jsx'; 
 import MyRequests from './myRequestPage/MyRequests.jsx'; // دي اللي هتبقى صفحة Grants
-import SellerRequests from './sellerRequestpage/SellerRequests.jsx';
+import sellerRequests from './sellerRequestpage/SellerRequests.jsx';
 import Cart from './HomePage/Cart';
 
 function App() {
