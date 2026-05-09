@@ -10,7 +10,7 @@ import {
     arrayUnion, 
     getDoc 
 } from 'firebase/firestore';
-import './SellerRequests.css';
+import "./sellerRequests.css";
 
 function SellerRequests() {
     const [orders, setOrders] = useState([]);
